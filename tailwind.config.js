@@ -14,7 +14,10 @@ module.exports = {
       'rose':"#F9322C",
       'lightred':"#fee2e2",
 
-     }
+     },
+   backgroundImage: {
+      'Background Pattern & Mask': "url('/images/Background Pattern & Mask.png')",
+
     },
   },
   plugins: [],

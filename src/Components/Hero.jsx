@@ -47,7 +47,7 @@ const Hero = () => {
           />
           <button className="text-white bg-red h-[56px] w-[120px] rounded-[8px] text-[18px] leading-[21px]  ">subscribe</button>
       </div>
-      <h1 className="text-center font-dark font-bold text-[32px] tracking-wide mt-[120px]">Explore courses</h1>
+      <h1 className="text-center font-dark font-bold text-[32px] tracking-wide mt-[120px]">Explore Courses</h1>
       <div className="h-[10px] bg-red w-[275px] ml-[533px] mt-[-17px]"></div>
     </div>
   );
