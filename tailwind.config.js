@@ -15,9 +15,11 @@ module.exports = {
       'lightred':"#fee2e2",
 
      },
-   backgroundImage: {
-      'Background Pattern & Mask': "url('/images/Background Pattern & Mask.png')",
-
+     backgroundImage: {
+      'hero-pattern': "url('/images/Background Pattern & Mask.png')",
+      'mask':"url('/images/Background Pattern & Mask (1).png')"
+     
+    },
     },
   },
   plugins: [],

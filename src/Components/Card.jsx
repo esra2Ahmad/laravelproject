@@ -7,7 +7,7 @@ import { RiAlarmFill } from "react-icons/ri";
 
 export default function Card(props) {
   return (
-    <div className="w-[420px] h-[656px] rounded-[31px]  border-[1.21px]  border-red  bg-transparent  backdrop-blur-2xl z-[-1]">
+    <div className="w-[420px] h-[656px] rounded-[31px]  border-[1.21px]  border-red  bg-transparent  backdrop-blur-xl z-[-1]">
       <div className="flex flex-col items-center">
         <p className=" text-[20px] font-bold leading-[32px] text-dark py-10 ml-[-12px] ">
           {props.title}
